@@ -4,3 +4,4 @@ python:alpine3.19
 redis:7.2.0
 neilpang/acme.sh:latest
 nextcloud:29.0.1
+python:3.10.14
