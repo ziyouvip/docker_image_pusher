@@ -15,3 +15,4 @@ prom/alertmanager:v0.27.0
 prom/pushgateway:v1.9.0
 adoptopenjdk:8-jre-openj9
 mysql:8.0.37
+x-ui:latest
