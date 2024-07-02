@@ -1,1 +1,1 @@
-joplin/server:latest
+ollama/ollama:latest
