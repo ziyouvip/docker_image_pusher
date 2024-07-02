@@ -1,1 +1,1 @@
-nriver/trilium-cn:latest
+joplin/server:latest
