@@ -1,1 +1,1 @@
-lobehub/lobe-chat:latest
+nriver/trilium-cn:latest
