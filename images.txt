@@ -1,3 +1,4 @@
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:ollama
 lobehub/lobe-chat:latest
+ollama/ollama:rocm
