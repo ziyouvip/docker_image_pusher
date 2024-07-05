@@ -3,3 +3,4 @@ ghcr.io/open-webui/open-webui:ollama
 lobehub/lobe-chat:latest
 ollama/ollama:rocm
 library/ubuntu:latest
+docmost/docmost:latest
