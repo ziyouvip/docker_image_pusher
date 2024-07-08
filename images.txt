@@ -4,4 +4,4 @@ lobehub/lobe-chat:latest
 ollama/ollama:rocm
 library/ubuntu:latest
 docmost/docmost:latest
-openjdk:8-jre-alpine3.9
+mintplexlabs/anythingllm
