@@ -6,3 +6,4 @@ library/ubuntu:latest
 docmost/docmost:latest
 mintplexlabs/anythingllm
 google/cadvisor
+lagoudocker/cadvisor:v0.37.0
