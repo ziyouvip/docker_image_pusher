@@ -5,3 +5,4 @@ ollama/ollama:rocm
 library/ubuntu:latest
 docmost/docmost:latest
 mintplexlabs/anythingllm
+google/cadvisor
