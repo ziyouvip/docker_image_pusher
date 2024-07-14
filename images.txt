@@ -8,3 +8,4 @@ mintplexlabs/anythingllm
 google/cadvisor
 lagoudocker/cadvisor:v0.37.0
 python:3.11-slim-bookworm
+chromadb/chroma
