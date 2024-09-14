@@ -11,3 +11,4 @@ python:3.11-slim-bookworm
 chromadb/chroma
 gotify/server:latest
 ghcr.io/toeverything/affine-graphql:stable
+docker.io/searxng/searxng
