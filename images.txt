@@ -12,3 +12,4 @@ chromadb/chroma
 gotify/server:latest
 ghcr.io/toeverything/affine-graphql:stable
 docker.io/searxng/searxng
+sonatype/nexus3:3.63.0
