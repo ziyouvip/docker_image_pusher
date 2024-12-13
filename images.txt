@@ -1,15 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:ollama
-lobehub/lobe-chat:latest
-ollama/ollama:rocm
-library/ubuntu:latest
-docmost/docmost:latest
-mintplexlabs/anythingllm
-google/cadvisor
-lagoudocker/cadvisor:v0.37.0
-python:3.11-slim-bookworm
-chromadb/chroma
-gotify/server:latest
-ghcr.io/toeverything/affine-graphql:stable
-docker.io/searxng/searxng
-sonatype/nexus3:3.63.0
+snowdreamtech/frps:alpine
