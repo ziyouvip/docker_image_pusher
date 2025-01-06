@@ -1,1 +1,1 @@
-snowdreamtech/frps:alpine
+homeassistant/home-assistant:latest
