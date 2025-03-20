@@ -1,5 +1,5 @@
-ghcr.io/anyproto/any-sync-coordinator:prod
-ghcr.io/anyproto/any-sync-filenode:prod
-ghcr.io/anyproto/any-sync-node:prod
-ghcr.io/anyproto/any-sync-consensusnode:prod
+ghcr.io/anyproto/any-sync-coordinator:latest
+ghcr.io/anyproto/any-sync-filenode:latest
+ghcr.io/anyproto/any-sync-node:latest
+ghcr.io/anyproto/any-sync-consensusnode:latest
 ghcr.io/anyproto/any-sync-tools:latest
