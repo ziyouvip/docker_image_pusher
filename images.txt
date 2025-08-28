@@ -1,1 +1,1 @@
-ghcr/ghcr.io/metacubex/metacubexd
+metacubex/mihomo:latest
