@@ -1,1 +1,1 @@
-metatube/metatube-server:latest
+ghcr.io/metatube-community/metatube-server:latest
